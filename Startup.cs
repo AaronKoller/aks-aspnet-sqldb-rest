@@ -45,7 +45,7 @@ namespace ClaimsApi
             // services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2); ID11092019.o
 
             
-            // Register the Swagger generator, defining 1 or more Swagger documents
+            // Register the Swagger generator, defining 1 or more Swagger documents1
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1",new OpenApiInfo 
